@@ -20,6 +20,6 @@ while True:
             sys.exit()
 
     # Draw on the surface object
-    DISPLAYSURF.fill((255, 255, 255))
+    DISPLAYSURF.fill((255, 255, 254))
     # Display the surface
     pygame.display.update()
